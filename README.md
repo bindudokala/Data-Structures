@@ -6,6 +6,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/bindudokala/Data-Structures/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bindudokala/Data-Structures/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/bindudokala/Data-Structures/tree/master/0056-merge-intervals) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/bindudokala/Data-Structures/tree/master/0056-merge-intervals) |
 | [0778-reorganize-string](https://github.com/bindudokala/Data-Structures/tree/master/0778-reorganize-string) |
 ## Heap (Priority Queue)
 |  |
