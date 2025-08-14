@@ -9,6 +9,7 @@
 | [0055-jump-game](https://github.com/bindudokala/Data-Structures/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/bindudokala/Data-Structures/tree/master/0056-merge-intervals) |
 | [0200-number-of-islands](https://github.com/bindudokala/Data-Structures/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/bindudokala/Data-Structures/tree/master/0695-max-area-of-island) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -50,16 +51,20 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/bindudokala/Data-Structures/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/bindudokala/Data-Structures/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/bindudokala/Data-Structures/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/bindudokala/Data-Structures/tree/master/0695-max-area-of-island) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/bindudokala/Data-Structures/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/bindudokala/Data-Structures/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/bindudokala/Data-Structures/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/bindudokala/Data-Structures/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
