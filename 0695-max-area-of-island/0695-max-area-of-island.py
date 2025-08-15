@@ -1,7 +1,6 @@
 class Solution:
     def maxAreaOfIsland(self, grid: List[List[int]]) -> int:
         visited = set()
-        islands = 0
         maxArea = 0
         def bfs(row, col):
             que = deque()
@@ -17,7 +16,6 @@ class Solution:
                     if 0 <= r + dr < len(grid) and 0 <= c + dc < len(grid[0]) and grid[r + dr][c + dc] == 1 and (r + dr, c + dc) not in visited:
                         que.append((r + dr, c + dc))
                         visited.add((r + dr, c + dc))
-            print(area)
             return area
 
         for row in range(len(grid)):
