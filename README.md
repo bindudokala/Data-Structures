@@ -10,6 +10,7 @@
 | [0056-merge-intervals](https://github.com/bindudokala/Data-Structures/tree/master/0056-merge-intervals) |
 | [0200-number-of-islands](https://github.com/bindudokala/Data-Structures/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/bindudokala/Data-Structures/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/bindudokala/Data-Structures/tree/master/1036-rotting-oranges) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 | [0133-clone-graph](https://github.com/bindudokala/Data-Structures/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/bindudokala/Data-Structures/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/bindudokala/Data-Structures/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/bindudokala/Data-Structures/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
 | ------- |
@@ -70,6 +72,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/bindudokala/Data-Structures/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/bindudokala/Data-Structures/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/bindudokala/Data-Structures/tree/master/1036-rotting-oranges) |
 ## Graph
 |  |
 | ------- |
