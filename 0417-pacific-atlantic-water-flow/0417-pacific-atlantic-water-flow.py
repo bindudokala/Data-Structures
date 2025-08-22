@@ -3,6 +3,7 @@ class Solution:
         pacific, atlantic = set(), set()
         rows, cols = len(heights), len(heights[0])
 
+        # perform DFS on the corners of pacific and atlantic separately and add the visited nodes to pacific, atlantic hashsets.
         def dfs(row, col, visited, prevHeight):
             if ((row, col) in visited) or row < 0 or row >= rows or col < 0 or col >= cols or (heights[row][col] < prevHeight):
                 return
@@ -20,6 +21,7 @@ class Solution:
             dfs(r, 0, pacific, heights[r][0])
             dfs(r, cols - 1, atlantic, heights[r][cols - 1])
 
+        # iterate over each node, if the node is both in pacific and atlantic hashsets add it to the result list
         result = []
         for r in range(rows):
             for c in range(cols):
