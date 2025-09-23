@@ -32,6 +32,7 @@
 ## String
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/bindudokala/Data-Structures/tree/master/0165-compare-version-numbers) |
 | [0778-reorganize-string](https://github.com/bindudokala/Data-Structures/tree/master/0778-reorganize-string) |
 ## Sorting
 |  |
@@ -81,4 +82,8 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/bindudokala/Data-Structures/tree/master/0133-clone-graph) |
+## Two Pointers
+|  |
+| ------- |
+| [0165-compare-version-numbers](https://github.com/bindudokala/Data-Structures/tree/master/0165-compare-version-numbers) |
 <!---LeetCode Topics End-->
