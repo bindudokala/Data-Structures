@@ -6,7 +6,7 @@ class Solution:
             i, j = 0, k - 1
             while i < j:
                 if nums[i] + nums[j] > nums[k]:
-                    # all the pairs {i from i to j - 1, j} can make triangle
+                    # all the pairs i to j can make triangle
                     triplets += j - i
                     j -= 1
                 else:
