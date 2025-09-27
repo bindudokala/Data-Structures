@@ -13,6 +13,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/bindudokala/Data-Structures/tree/master/0417-pacific-atlantic-water-flow) |
 | [0611-valid-triangle-number](https://github.com/bindudokala/Data-Structures/tree/master/0611-valid-triangle-number) |
 | [0695-max-area-of-island](https://github.com/bindudokala/Data-Structures/tree/master/0695-max-area-of-island) |
+| [0830-largest-triangle-area](https://github.com/bindudokala/Data-Structures/tree/master/0830-largest-triangle-area) |
 | [1036-rotting-oranges](https://github.com/bindudokala/Data-Structures/tree/master/1036-rotting-oranges) |
 ## Dynamic Programming
 |  |
@@ -98,8 +99,13 @@
 |  |
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/bindudokala/Data-Structures/tree/master/0166-fraction-to-recurring-decimal) |
+| [0830-largest-triangle-area](https://github.com/bindudokala/Data-Structures/tree/master/0830-largest-triangle-area) |
 ## Binary Search
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/bindudokala/Data-Structures/tree/master/0611-valid-triangle-number) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/bindudokala/Data-Structures/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
