@@ -16,6 +16,7 @@
 | [0830-largest-triangle-area](https://github.com/bindudokala/Data-Structures/tree/master/0830-largest-triangle-area) |
 | [1036-rotting-oranges](https://github.com/bindudokala/Data-Structures/tree/master/1036-rotting-oranges) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/bindudokala/Data-Structures/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2350-find-closest-number-to-zero](https://github.com/bindudokala/Data-Structures/tree/master/2350-find-closest-number-to-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
