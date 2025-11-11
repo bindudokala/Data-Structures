@@ -44,6 +44,7 @@
 | [0165-compare-version-numbers](https://github.com/bindudokala/Data-Structures/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/bindudokala/Data-Structures/tree/master/0166-fraction-to-recurring-decimal) |
 | [0778-reorganize-string](https://github.com/bindudokala/Data-Structures/tree/master/0778-reorganize-string) |
+| [1894-merge-strings-alternately](https://github.com/bindudokala/Data-Structures/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
@@ -99,6 +100,7 @@
 | ------- |
 | [0165-compare-version-numbers](https://github.com/bindudokala/Data-Structures/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/bindudokala/Data-Structures/tree/master/0611-valid-triangle-number) |
+| [1894-merge-strings-alternately](https://github.com/bindudokala/Data-Structures/tree/master/1894-merge-strings-alternately) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/bindudokala/Data-Structures/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Math
 |  |
