@@ -8,5 +8,4 @@ class Solution:
                 result = n
             elif n > 0 and n <= abs(result):
                 result = n
-
         return result
