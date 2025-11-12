@@ -35,12 +35,14 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/bindudokala/Data-Structures/tree/master/0013-roman-to-integer) |
 | [0133-clone-graph](https://github.com/bindudokala/Data-Structures/tree/master/0133-clone-graph) |
 | [0166-fraction-to-recurring-decimal](https://github.com/bindudokala/Data-Structures/tree/master/0166-fraction-to-recurring-decimal) |
 | [0778-reorganize-string](https://github.com/bindudokala/Data-Structures/tree/master/0778-reorganize-string) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/bindudokala/Data-Structures/tree/master/0013-roman-to-integer) |
 | [0165-compare-version-numbers](https://github.com/bindudokala/Data-Structures/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/bindudokala/Data-Structures/tree/master/0166-fraction-to-recurring-decimal) |
 | [0778-reorganize-string](https://github.com/bindudokala/Data-Structures/tree/master/0778-reorganize-string) |
@@ -105,6 +107,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/bindudokala/Data-Structures/tree/master/0013-roman-to-integer) |
 | [0166-fraction-to-recurring-decimal](https://github.com/bindudokala/Data-Structures/tree/master/0166-fraction-to-recurring-decimal) |
 | [0830-largest-triangle-area](https://github.com/bindudokala/Data-Structures/tree/master/0830-largest-triangle-area) |
 ## Binary Search
