@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/bindudokala/Data-Structures/tree/master/0014-longest-common-prefix) |
 | [0045-jump-game-ii](https://github.com/bindudokala/Data-Structures/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/bindudokala/Data-Structures/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/bindudokala/Data-Structures/tree/master/0055-jump-game) |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/bindudokala/Data-Structures/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/bindudokala/Data-Structures/tree/master/0014-longest-common-prefix) |
 | [0165-compare-version-numbers](https://github.com/bindudokala/Data-Structures/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/bindudokala/Data-Structures/tree/master/0166-fraction-to-recurring-decimal) |
 | [0392-is-subsequence](https://github.com/bindudokala/Data-Structures/tree/master/0392-is-subsequence) |
@@ -130,4 +132,8 @@
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/bindudokala/Data-Structures/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/bindudokala/Data-Structures/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
