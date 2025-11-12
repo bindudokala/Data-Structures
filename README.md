@@ -24,6 +24,7 @@
 | [0053-maximum-subarray](https://github.com/bindudokala/Data-Structures/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/bindudokala/Data-Structures/tree/master/0055-jump-game) |
 | [0120-triangle](https://github.com/bindudokala/Data-Structures/tree/master/0120-triangle) |
+| [0392-is-subsequence](https://github.com/bindudokala/Data-Structures/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [0013-roman-to-integer](https://github.com/bindudokala/Data-Structures/tree/master/0013-roman-to-integer) |
 | [0165-compare-version-numbers](https://github.com/bindudokala/Data-Structures/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/bindudokala/Data-Structures/tree/master/0166-fraction-to-recurring-decimal) |
+| [0392-is-subsequence](https://github.com/bindudokala/Data-Structures/tree/master/0392-is-subsequence) |
 | [0778-reorganize-string](https://github.com/bindudokala/Data-Structures/tree/master/0778-reorganize-string) |
 | [1894-merge-strings-alternately](https://github.com/bindudokala/Data-Structures/tree/master/1894-merge-strings-alternately) |
 ## Sorting
@@ -101,6 +103,7 @@
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/bindudokala/Data-Structures/tree/master/0165-compare-version-numbers) |
+| [0392-is-subsequence](https://github.com/bindudokala/Data-Structures/tree/master/0392-is-subsequence) |
 | [0611-valid-triangle-number](https://github.com/bindudokala/Data-Structures/tree/master/0611-valid-triangle-number) |
 | [1894-merge-strings-alternately](https://github.com/bindudokala/Data-Structures/tree/master/1894-merge-strings-alternately) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/bindudokala/Data-Structures/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
