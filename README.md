@@ -6,6 +6,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/bindudokala/Data-Structures/tree/master/0014-longest-common-prefix) |
 | [0045-jump-game-ii](https://github.com/bindudokala/Data-Structures/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/bindudokala/Data-Structures/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/bindudokala/Data-Structures/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/bindudokala/Data-Structures/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/bindudokala/Data-Structures/tree/master/0055-jump-game) |
@@ -95,6 +96,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/bindudokala/Data-Structures/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/bindudokala/Data-Structures/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/bindudokala/Data-Structures/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bindudokala/Data-Structures/tree/master/0417-pacific-atlantic-water-flow) |
@@ -116,6 +118,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/bindudokala/Data-Structures/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/bindudokala/Data-Structures/tree/master/0048-rotate-image) |
 | [0166-fraction-to-recurring-decimal](https://github.com/bindudokala/Data-Structures/tree/master/0166-fraction-to-recurring-decimal) |
 | [0830-largest-triangle-area](https://github.com/bindudokala/Data-Structures/tree/master/0830-largest-triangle-area) |
 ## Binary Search
