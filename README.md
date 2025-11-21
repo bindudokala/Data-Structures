@@ -43,6 +43,7 @@
 | [0013-roman-to-integer](https://github.com/bindudokala/Data-Structures/tree/master/0013-roman-to-integer) |
 | [0133-clone-graph](https://github.com/bindudokala/Data-Structures/tree/master/0133-clone-graph) |
 | [0166-fraction-to-recurring-decimal](https://github.com/bindudokala/Data-Structures/tree/master/0166-fraction-to-recurring-decimal) |
+| [0383-ransom-note](https://github.com/bindudokala/Data-Structures/tree/master/0383-ransom-note) |
 | [0778-reorganize-string](https://github.com/bindudokala/Data-Structures/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/bindudokala/Data-Structures/tree/master/0782-jewels-and-stones) |
 ## String
@@ -52,6 +53,7 @@
 | [0014-longest-common-prefix](https://github.com/bindudokala/Data-Structures/tree/master/0014-longest-common-prefix) |
 | [0165-compare-version-numbers](https://github.com/bindudokala/Data-Structures/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/bindudokala/Data-Structures/tree/master/0166-fraction-to-recurring-decimal) |
+| [0383-ransom-note](https://github.com/bindudokala/Data-Structures/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/bindudokala/Data-Structures/tree/master/0392-is-subsequence) |
 | [0778-reorganize-string](https://github.com/bindudokala/Data-Structures/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/bindudokala/Data-Structures/tree/master/0782-jewels-and-stones) |
@@ -70,6 +72,7 @@
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/bindudokala/Data-Structures/tree/master/0383-ransom-note) |
 | [0778-reorganize-string](https://github.com/bindudokala/Data-Structures/tree/master/0778-reorganize-string) |
 ## Divide and Conquer
 |  |
