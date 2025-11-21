@@ -44,6 +44,7 @@
 | [0133-clone-graph](https://github.com/bindudokala/Data-Structures/tree/master/0133-clone-graph) |
 | [0166-fraction-to-recurring-decimal](https://github.com/bindudokala/Data-Structures/tree/master/0166-fraction-to-recurring-decimal) |
 | [0778-reorganize-string](https://github.com/bindudokala/Data-Structures/tree/master/0778-reorganize-string) |
+| [0782-jewels-and-stones](https://github.com/bindudokala/Data-Structures/tree/master/0782-jewels-and-stones) |
 ## String
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/bindudokala/Data-Structures/tree/master/0166-fraction-to-recurring-decimal) |
 | [0392-is-subsequence](https://github.com/bindudokala/Data-Structures/tree/master/0392-is-subsequence) |
 | [0778-reorganize-string](https://github.com/bindudokala/Data-Structures/tree/master/0778-reorganize-string) |
+| [0782-jewels-and-stones](https://github.com/bindudokala/Data-Structures/tree/master/0782-jewels-and-stones) |
 | [1894-merge-strings-alternately](https://github.com/bindudokala/Data-Structures/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
