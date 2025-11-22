@@ -18,6 +18,7 @@
 | [0611-valid-triangle-number](https://github.com/bindudokala/Data-Structures/tree/master/0611-valid-triangle-number) |
 | [0695-max-area-of-island](https://github.com/bindudokala/Data-Structures/tree/master/0695-max-area-of-island) |
 | [0830-largest-triangle-area](https://github.com/bindudokala/Data-Structures/tree/master/0830-largest-triangle-area) |
+| [0977-squares-of-a-sorted-array](https://github.com/bindudokala/Data-Structures/tree/master/0977-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/bindudokala/Data-Structures/tree/master/1036-rotting-oranges) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/bindudokala/Data-Structures/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2350-find-closest-number-to-zero](https://github.com/bindudokala/Data-Structures/tree/master/2350-find-closest-number-to-zero) |
@@ -66,6 +67,7 @@
 | [0056-merge-intervals](https://github.com/bindudokala/Data-Structures/tree/master/0056-merge-intervals) |
 | [0611-valid-triangle-number](https://github.com/bindudokala/Data-Structures/tree/master/0611-valid-triangle-number) |
 | [0778-reorganize-string](https://github.com/bindudokala/Data-Structures/tree/master/0778-reorganize-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/bindudokala/Data-Structures/tree/master/0977-squares-of-a-sorted-array) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/bindudokala/Data-Structures/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Heap (Priority Queue)
 |  |
@@ -120,6 +122,7 @@
 | [0165-compare-version-numbers](https://github.com/bindudokala/Data-Structures/tree/master/0165-compare-version-numbers) |
 | [0392-is-subsequence](https://github.com/bindudokala/Data-Structures/tree/master/0392-is-subsequence) |
 | [0611-valid-triangle-number](https://github.com/bindudokala/Data-Structures/tree/master/0611-valid-triangle-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/bindudokala/Data-Structures/tree/master/0977-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/bindudokala/Data-Structures/tree/master/1894-merge-strings-alternately) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/bindudokala/Data-Structures/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Math
