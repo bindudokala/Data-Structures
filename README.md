@@ -46,6 +46,7 @@
 | [0383-ransom-note](https://github.com/bindudokala/Data-Structures/tree/master/0383-ransom-note) |
 | [0778-reorganize-string](https://github.com/bindudokala/Data-Structures/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/bindudokala/Data-Structures/tree/master/0782-jewels-and-stones) |
+| [1189-maximum-number-of-balloons](https://github.com/bindudokala/Data-Structures/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [0392-is-subsequence](https://github.com/bindudokala/Data-Structures/tree/master/0392-is-subsequence) |
 | [0778-reorganize-string](https://github.com/bindudokala/Data-Structures/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/bindudokala/Data-Structures/tree/master/0782-jewels-and-stones) |
+| [1189-maximum-number-of-balloons](https://github.com/bindudokala/Data-Structures/tree/master/1189-maximum-number-of-balloons) |
 | [1894-merge-strings-alternately](https://github.com/bindudokala/Data-Structures/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -74,6 +76,7 @@
 | ------- |
 | [0383-ransom-note](https://github.com/bindudokala/Data-Structures/tree/master/0383-ransom-note) |
 | [0778-reorganize-string](https://github.com/bindudokala/Data-Structures/tree/master/0778-reorganize-string) |
+| [1189-maximum-number-of-balloons](https://github.com/bindudokala/Data-Structures/tree/master/1189-maximum-number-of-balloons) |
 ## Divide and Conquer
 |  |
 | ------- |
