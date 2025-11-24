@@ -16,6 +16,7 @@
 | [0228-summary-ranges](https://github.com/bindudokala/Data-Structures/tree/master/0228-summary-ranges) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bindudokala/Data-Structures/tree/master/0417-pacific-atlantic-water-flow) |
 | [0611-valid-triangle-number](https://github.com/bindudokala/Data-Structures/tree/master/0611-valid-triangle-number) |
+| [0682-baseball-game](https://github.com/bindudokala/Data-Structures/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/bindudokala/Data-Structures/tree/master/0695-max-area-of-island) |
 | [0830-largest-triangle-area](https://github.com/bindudokala/Data-Structures/tree/master/0830-largest-triangle-area) |
 | [0977-squares-of-a-sorted-array](https://github.com/bindudokala/Data-Structures/tree/master/0977-squares-of-a-sorted-array) |
@@ -159,4 +160,9 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/bindudokala/Data-Structures/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/bindudokala/Data-Structures/tree/master/0682-baseball-game) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/bindudokala/Data-Structures/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
