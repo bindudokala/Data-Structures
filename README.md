@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/bindudokala/Data-Structures/tree/master/0014-longest-common-prefix) |
+| [0042-trapping-rain-water](https://github.com/bindudokala/Data-Structures/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/bindudokala/Data-Structures/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/bindudokala/Data-Structures/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/bindudokala/Data-Structures/tree/master/0053-maximum-subarray) |
@@ -26,6 +27,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/bindudokala/Data-Structures/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/bindudokala/Data-Structures/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/bindudokala/Data-Structures/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/bindudokala/Data-Structures/tree/master/0055-jump-game) |
@@ -121,6 +123,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/bindudokala/Data-Structures/tree/master/0042-trapping-rain-water) |
 | [0165-compare-version-numbers](https://github.com/bindudokala/Data-Structures/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/bindudokala/Data-Structures/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/bindudokala/Data-Structures/tree/master/0392-is-subsequence) |
@@ -164,5 +167,10 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/bindudokala/Data-Structures/tree/master/0042-trapping-rain-water) |
 | [0682-baseball-game](https://github.com/bindudokala/Data-Structures/tree/master/0682-baseball-game) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/bindudokala/Data-Structures/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
