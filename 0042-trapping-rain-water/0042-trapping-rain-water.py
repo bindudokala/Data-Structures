@@ -3,22 +3,24 @@ class Solution:
         l, r = 0, len(height) - 1
         maxLeft, maxRight = height[l], height[r]
         waterTrapped = 0
-        # while(l < r):
-        #     if maxLeft <= maxRight:
-        #         l += 1
-        #         waterTrapped += (maxLeft - height[l]) if (maxLeft - height[l]) > 0 else 0
-        #         if height[l] > maxLeft:
+        # Solution 1
+        # while l < r:
+        #     if height[l] <= height[r]:
+        #         if height[l] >= maxLeft:
         #             maxLeft = height[l]
-                  
+        #         else:
+        #             water += maxLeft - height[l]
+        #         l += 1
         #     else:
-        #         r -= 1
-        #         waterTrapped += (maxRight - height[r]) if (maxRight - height[r]) > 0 else 0
-        #         if height[r] > maxRight:
+        #         if height[r] >= maxRight:
         #             maxRight = height[r]
-                       
+        #         else:
+        #             water += height[r]
+        #         r -= 1           
         # return waterTrapped
 
-        while(l < r):
+        # Solution 2
+        while l < r:
             maxLeft = max(maxLeft, height[l])
             maxRight = max(maxRight, height[r])
             if height[l] <= height[r]:  # if maxLeft <= maxRight:
