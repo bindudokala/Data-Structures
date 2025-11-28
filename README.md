@@ -124,6 +124,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bindudokala/Data-Structures/tree/master/0042-trapping-rain-water) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/bindudokala/Data-Structures/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0165-compare-version-numbers](https://github.com/bindudokala/Data-Structures/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/bindudokala/Data-Structures/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/bindudokala/Data-Structures/tree/master/0392-is-subsequence) |
@@ -176,5 +177,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/bindudokala/Data-Structures/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/bindudokala/Data-Structures/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
