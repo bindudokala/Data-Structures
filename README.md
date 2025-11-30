@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/bindudokala/Data-Structures/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/bindudokala/Data-Structures/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/bindudokala/Data-Structures/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/bindudokala/Data-Structures/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/bindudokala/Data-Structures/tree/master/0048-rotate-image) |
@@ -144,6 +145,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/bindudokala/Data-Structures/tree/master/0035-search-insert-position) |
 | [0611-valid-triangle-number](https://github.com/bindudokala/Data-Structures/tree/master/0611-valid-triangle-number) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/bindudokala/Data-Structures/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Geometry
