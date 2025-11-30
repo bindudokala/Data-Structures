@@ -141,12 +141,14 @@
 | [0013-roman-to-integer](https://github.com/bindudokala/Data-Structures/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/bindudokala/Data-Structures/tree/master/0048-rotate-image) |
 | [0166-fraction-to-recurring-decimal](https://github.com/bindudokala/Data-Structures/tree/master/0166-fraction-to-recurring-decimal) |
+| [0367-valid-perfect-square](https://github.com/bindudokala/Data-Structures/tree/master/0367-valid-perfect-square) |
 | [0830-largest-triangle-area](https://github.com/bindudokala/Data-Structures/tree/master/0830-largest-triangle-area) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/bindudokala/Data-Structures/tree/master/0035-search-insert-position) |
 | [0278-first-bad-version](https://github.com/bindudokala/Data-Structures/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/bindudokala/Data-Structures/tree/master/0367-valid-perfect-square) |
 | [0611-valid-triangle-number](https://github.com/bindudokala/Data-Structures/tree/master/0611-valid-triangle-number) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/bindudokala/Data-Structures/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Geometry
