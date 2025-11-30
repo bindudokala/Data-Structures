@@ -146,6 +146,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/bindudokala/Data-Structures/tree/master/0035-search-insert-position) |
+| [0278-first-bad-version](https://github.com/bindudokala/Data-Structures/tree/master/0278-first-bad-version) |
 | [0611-valid-triangle-number](https://github.com/bindudokala/Data-Structures/tree/master/0611-valid-triangle-number) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/bindudokala/Data-Structures/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Geometry
@@ -185,4 +186,8 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/bindudokala/Data-Structures/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/bindudokala/Data-Structures/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0876-middle-of-the-linked-list](https://github.com/bindudokala/Data-Structures/tree/master/0876-middle-of-the-linked-list) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/bindudokala/Data-Structures/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
