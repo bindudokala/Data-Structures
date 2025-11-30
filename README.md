@@ -13,6 +13,7 @@
 | [0054-spiral-matrix](https://github.com/bindudokala/Data-Structures/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/bindudokala/Data-Structures/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/bindudokala/Data-Structures/tree/master/0056-merge-intervals) |
+| [0074-search-a-2d-matrix](https://github.com/bindudokala/Data-Structures/tree/master/0074-search-a-2d-matrix) |
 | [0120-triangle](https://github.com/bindudokala/Data-Structures/tree/master/0120-triangle) |
 | [0200-number-of-islands](https://github.com/bindudokala/Data-Structures/tree/master/0200-number-of-islands) |
 | [0228-summary-ranges](https://github.com/bindudokala/Data-Structures/tree/master/0228-summary-ranges) |
@@ -113,6 +114,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/bindudokala/Data-Structures/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/bindudokala/Data-Structures/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/bindudokala/Data-Structures/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/bindudokala/Data-Structures/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bindudokala/Data-Structures/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/bindudokala/Data-Structures/tree/master/0695-max-area-of-island) |
@@ -147,6 +149,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/bindudokala/Data-Structures/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/bindudokala/Data-Structures/tree/master/0074-search-a-2d-matrix) |
 | [0278-first-bad-version](https://github.com/bindudokala/Data-Structures/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/bindudokala/Data-Structures/tree/master/0367-valid-perfect-square) |
 | [0611-valid-triangle-number](https://github.com/bindudokala/Data-Structures/tree/master/0611-valid-triangle-number) |
