@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/bindudokala/Data-Structures/tree/master/0014-longest-common-prefix) |
+| [0033-search-in-rotated-sorted-array](https://github.com/bindudokala/Data-Structures/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/bindudokala/Data-Structures/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/bindudokala/Data-Structures/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/bindudokala/Data-Structures/tree/master/0045-jump-game-ii) |
@@ -148,6 +149,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/bindudokala/Data-Structures/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/bindudokala/Data-Structures/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/bindudokala/Data-Structures/tree/master/0074-search-a-2d-matrix) |
 | [0278-first-bad-version](https://github.com/bindudokala/Data-Structures/tree/master/0278-first-bad-version) |
