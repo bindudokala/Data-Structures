@@ -20,6 +20,7 @@
 | [0228-summary-ranges](https://github.com/bindudokala/Data-Structures/tree/master/0228-summary-ranges) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bindudokala/Data-Structures/tree/master/0417-pacific-atlantic-water-flow) |
 | [0611-valid-triangle-number](https://github.com/bindudokala/Data-Structures/tree/master/0611-valid-triangle-number) |
+| [0643-maximum-average-subarray-i](https://github.com/bindudokala/Data-Structures/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/bindudokala/Data-Structures/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/bindudokala/Data-Structures/tree/master/0695-max-area-of-island) |
 | [0830-largest-triangle-area](https://github.com/bindudokala/Data-Structures/tree/master/0830-largest-triangle-area) |
@@ -197,4 +198,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/bindudokala/Data-Structures/tree/master/0278-first-bad-version) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/bindudokala/Data-Structures/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
