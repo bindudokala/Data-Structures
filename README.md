@@ -25,6 +25,7 @@
 | [0695-max-area-of-island](https://github.com/bindudokala/Data-Structures/tree/master/0695-max-area-of-island) |
 | [0830-largest-triangle-area](https://github.com/bindudokala/Data-Structures/tree/master/0830-largest-triangle-area) |
 | [0977-squares-of-a-sorted-array](https://github.com/bindudokala/Data-Structures/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/bindudokala/Data-Structures/tree/master/1004-max-consecutive-ones-iii) |
 | [1036-rotting-oranges](https://github.com/bindudokala/Data-Structures/tree/master/1036-rotting-oranges) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/bindudokala/Data-Structures/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2350-find-closest-number-to-zero](https://github.com/bindudokala/Data-Structures/tree/master/2350-find-closest-number-to-zero) |
@@ -156,6 +157,7 @@
 | [0278-first-bad-version](https://github.com/bindudokala/Data-Structures/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/bindudokala/Data-Structures/tree/master/0367-valid-perfect-square) |
 | [0611-valid-triangle-number](https://github.com/bindudokala/Data-Structures/tree/master/0611-valid-triangle-number) |
+| [1004-max-consecutive-ones-iii](https://github.com/bindudokala/Data-Structures/tree/master/1004-max-consecutive-ones-iii) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/bindudokala/Data-Structures/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Geometry
 |  |
@@ -202,4 +204,9 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/bindudokala/Data-Structures/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/bindudokala/Data-Structures/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/bindudokala/Data-Structures/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
