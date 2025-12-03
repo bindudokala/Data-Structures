@@ -17,6 +17,7 @@
 | [0074-search-a-2d-matrix](https://github.com/bindudokala/Data-Structures/tree/master/0074-search-a-2d-matrix) |
 | [0120-triangle](https://github.com/bindudokala/Data-Structures/tree/master/0120-triangle) |
 | [0200-number-of-islands](https://github.com/bindudokala/Data-Structures/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/bindudokala/Data-Structures/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/bindudokala/Data-Structures/tree/master/0228-summary-ranges) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bindudokala/Data-Structures/tree/master/0417-pacific-atlantic-water-flow) |
 | [0611-valid-triangle-number](https://github.com/bindudokala/Data-Structures/tree/master/0611-valid-triangle-number) |
@@ -154,6 +155,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/bindudokala/Data-Structures/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/bindudokala/Data-Structures/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/bindudokala/Data-Structures/tree/master/0074-search-a-2d-matrix) |
+| [0209-minimum-size-subarray-sum](https://github.com/bindudokala/Data-Structures/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/bindudokala/Data-Structures/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/bindudokala/Data-Structures/tree/master/0367-valid-perfect-square) |
 | [0611-valid-triangle-number](https://github.com/bindudokala/Data-Structures/tree/master/0611-valid-triangle-number) |
@@ -203,10 +205,12 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/bindudokala/Data-Structures/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/bindudokala/Data-Structures/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/bindudokala/Data-Structures/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/bindudokala/Data-Structures/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/bindudokala/Data-Structures/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
