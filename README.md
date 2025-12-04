@@ -54,6 +54,7 @@
 | [0133-clone-graph](https://github.com/bindudokala/Data-Structures/tree/master/0133-clone-graph) |
 | [0166-fraction-to-recurring-decimal](https://github.com/bindudokala/Data-Structures/tree/master/0166-fraction-to-recurring-decimal) |
 | [0383-ransom-note](https://github.com/bindudokala/Data-Structures/tree/master/0383-ransom-note) |
+| [0567-permutation-in-string](https://github.com/bindudokala/Data-Structures/tree/master/0567-permutation-in-string) |
 | [0778-reorganize-string](https://github.com/bindudokala/Data-Structures/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/bindudokala/Data-Structures/tree/master/0782-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/bindudokala/Data-Structures/tree/master/1189-maximum-number-of-balloons) |
@@ -67,6 +68,7 @@
 | [0344-reverse-string](https://github.com/bindudokala/Data-Structures/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/bindudokala/Data-Structures/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/bindudokala/Data-Structures/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/bindudokala/Data-Structures/tree/master/0567-permutation-in-string) |
 | [0778-reorganize-string](https://github.com/bindudokala/Data-Structures/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/bindudokala/Data-Structures/tree/master/0782-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/bindudokala/Data-Structures/tree/master/1189-maximum-number-of-balloons) |
@@ -136,6 +138,7 @@
 | [0165-compare-version-numbers](https://github.com/bindudokala/Data-Structures/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/bindudokala/Data-Structures/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/bindudokala/Data-Structures/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/bindudokala/Data-Structures/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/bindudokala/Data-Structures/tree/master/0611-valid-triangle-number) |
 | [0876-middle-of-the-linked-list](https://github.com/bindudokala/Data-Structures/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/bindudokala/Data-Structures/tree/master/0977-squares-of-a-sorted-array) |
@@ -206,6 +209,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/bindudokala/Data-Structures/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/bindudokala/Data-Structures/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/bindudokala/Data-Structures/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/bindudokala/Data-Structures/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
