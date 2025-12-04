@@ -1,11 +1,12 @@
 class Solution:
     def checkInclusion(self, s1: str, s2: str) -> bool:
-    # Solution 1 - Sliding window dynamic size
+    # Solution 1 - Sliding window dynamic size - using frequency array
         n1, n2 = len(s1), len(s2)
+        if n1 > n2:
+            return False
         freq1 = [0] * 26
         freq2 = [0] * 26
-        if len(s1) > len(s2):
-            return False
+
         for i in range(n1):
             freq1[ord(s1[i]) - ord('a')] += 1
             freq2[ord(s2[i]) - ord('a')] += 1
