@@ -98,6 +98,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/bindudokala/Data-Structures/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/bindudokala/Data-Structures/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/bindudokala/Data-Structures/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bindudokala/Data-Structures/tree/master/0417-pacific-atlantic-water-flow) |
@@ -105,6 +106,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/bindudokala/Data-Structures/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/bindudokala/Data-Structures/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/bindudokala/Data-Structures/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bindudokala/Data-Structures/tree/master/0417-pacific-atlantic-water-flow) |
@@ -217,4 +219,12 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/bindudokala/Data-Structures/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/bindudokala/Data-Structures/tree/master/1004-max-consecutive-ones-iii) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/bindudokala/Data-Structures/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/bindudokala/Data-Structures/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
