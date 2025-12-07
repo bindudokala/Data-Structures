@@ -98,6 +98,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/bindudokala/Data-Structures/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/bindudokala/Data-Structures/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/bindudokala/Data-Structures/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/bindudokala/Data-Structures/tree/master/0200-number-of-islands) |
@@ -106,6 +107,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/bindudokala/Data-Structures/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/bindudokala/Data-Structures/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/bindudokala/Data-Structures/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/bindudokala/Data-Structures/tree/master/0200-number-of-islands) |
@@ -222,9 +224,11 @@
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/bindudokala/Data-Structures/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/bindudokala/Data-Structures/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/bindudokala/Data-Structures/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/bindudokala/Data-Structures/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
