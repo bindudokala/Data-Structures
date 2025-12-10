@@ -103,6 +103,7 @@
 | [0133-clone-graph](https://github.com/bindudokala/Data-Structures/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/bindudokala/Data-Structures/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bindudokala/Data-Structures/tree/master/0417-pacific-atlantic-water-flow) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/bindudokala/Data-Structures/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0695-max-area-of-island](https://github.com/bindudokala/Data-Structures/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
@@ -112,6 +113,7 @@
 | [0133-clone-graph](https://github.com/bindudokala/Data-Structures/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/bindudokala/Data-Structures/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bindudokala/Data-Structures/tree/master/0417-pacific-atlantic-water-flow) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/bindudokala/Data-Structures/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0695-max-area-of-island](https://github.com/bindudokala/Data-Structures/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/bindudokala/Data-Structures/tree/master/1036-rotting-oranges) |
 ## Union Find
@@ -226,9 +228,15 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/bindudokala/Data-Structures/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/bindudokala/Data-Structures/tree/master/0112-path-sum) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/bindudokala/Data-Structures/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/bindudokala/Data-Structures/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/bindudokala/Data-Structures/tree/master/0112-path-sum) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/bindudokala/Data-Structures/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/bindudokala/Data-Structures/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
