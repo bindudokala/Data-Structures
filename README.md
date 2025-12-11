@@ -98,6 +98,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/bindudokala/Data-Structures/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/bindudokala/Data-Structures/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/bindudokala/Data-Structures/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/bindudokala/Data-Structures/tree/master/0133-clone-graph) |
@@ -226,17 +227,20 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/bindudokala/Data-Structures/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/bindudokala/Data-Structures/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/bindudokala/Data-Structures/tree/master/0112-path-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/bindudokala/Data-Structures/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/bindudokala/Data-Structures/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/bindudokala/Data-Structures/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/bindudokala/Data-Structures/tree/master/0112-path-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/bindudokala/Data-Structures/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/bindudokala/Data-Structures/tree/master/0098-validate-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/bindudokala/Data-Structures/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
