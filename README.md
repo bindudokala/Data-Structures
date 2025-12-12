@@ -19,6 +19,7 @@
 | [0200-number-of-islands](https://github.com/bindudokala/Data-Structures/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/bindudokala/Data-Structures/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/bindudokala/Data-Structures/tree/master/0228-summary-ranges) |
+| [0347-top-k-frequent-elements](https://github.com/bindudokala/Data-Structures/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bindudokala/Data-Structures/tree/master/0417-pacific-atlantic-water-flow) |
 | [0611-valid-triangle-number](https://github.com/bindudokala/Data-Structures/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/bindudokala/Data-Structures/tree/master/0643-maximum-average-subarray-i) |
@@ -53,6 +54,7 @@
 | [0013-roman-to-integer](https://github.com/bindudokala/Data-Structures/tree/master/0013-roman-to-integer) |
 | [0133-clone-graph](https://github.com/bindudokala/Data-Structures/tree/master/0133-clone-graph) |
 | [0166-fraction-to-recurring-decimal](https://github.com/bindudokala/Data-Structures/tree/master/0166-fraction-to-recurring-decimal) |
+| [0347-top-k-frequent-elements](https://github.com/bindudokala/Data-Structures/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/bindudokala/Data-Structures/tree/master/0383-ransom-note) |
 | [0567-permutation-in-string](https://github.com/bindudokala/Data-Structures/tree/master/0567-permutation-in-string) |
 | [0778-reorganize-string](https://github.com/bindudokala/Data-Structures/tree/master/0778-reorganize-string) |
@@ -77,6 +79,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/bindudokala/Data-Structures/tree/master/0056-merge-intervals) |
+| [0347-top-k-frequent-elements](https://github.com/bindudokala/Data-Structures/tree/master/0347-top-k-frequent-elements) |
 | [0611-valid-triangle-number](https://github.com/bindudokala/Data-Structures/tree/master/0611-valid-triangle-number) |
 | [0778-reorganize-string](https://github.com/bindudokala/Data-Structures/tree/master/0778-reorganize-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/bindudokala/Data-Structures/tree/master/0977-squares-of-a-sorted-array) |
@@ -84,10 +87,12 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/bindudokala/Data-Structures/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/bindudokala/Data-Structures/tree/master/0778-reorganize-string) |
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/bindudokala/Data-Structures/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/bindudokala/Data-Structures/tree/master/0383-ransom-note) |
 | [0778-reorganize-string](https://github.com/bindudokala/Data-Structures/tree/master/0778-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/bindudokala/Data-Structures/tree/master/1189-maximum-number-of-balloons) |
@@ -95,6 +100,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/bindudokala/Data-Structures/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/bindudokala/Data-Structures/tree/master/0347-top-k-frequent-elements) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -243,4 +249,12 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/bindudokala/Data-Structures/tree/master/0098-validate-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/bindudokala/Data-Structures/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/bindudokala/Data-Structures/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/bindudokala/Data-Structures/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
