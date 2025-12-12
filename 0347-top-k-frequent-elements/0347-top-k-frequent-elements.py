@@ -16,7 +16,21 @@ class Solution:
         # return output
 
 
-        # Solution 2 - using min heap
+
+        # Solution 2- using min heap - maintaining heap size k while iterating and pushing each value in nums onto heap
+        freq = defaultdict(int)
+        minHeap = []
+        for n in nums:
+            freq[n] += 1
+        for n in freq:
+            heapq.heappush(minHeap, (freq[n], n))
+            if len(minHeap) > k:
+                heapq.heappop(minHeap)
+        return [x[1] for x in minHeap]
+
+
+
+        # Solution 3 - using min heap
         freq = defaultdict(int)
         for n in nums:
             freq[n] += 1
