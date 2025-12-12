@@ -26,6 +26,7 @@
 | [0682-baseball-game](https://github.com/bindudokala/Data-Structures/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/bindudokala/Data-Structures/tree/master/0695-max-area-of-island) |
 | [0830-largest-triangle-area](https://github.com/bindudokala/Data-Structures/tree/master/0830-largest-triangle-area) |
+| [0973-k-closest-points-to-origin](https://github.com/bindudokala/Data-Structures/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/bindudokala/Data-Structures/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/bindudokala/Data-Structures/tree/master/1004-max-consecutive-ones-iii) |
 | [1036-rotting-oranges](https://github.com/bindudokala/Data-Structures/tree/master/1036-rotting-oranges) |
@@ -82,6 +83,7 @@
 | [0347-top-k-frequent-elements](https://github.com/bindudokala/Data-Structures/tree/master/0347-top-k-frequent-elements) |
 | [0611-valid-triangle-number](https://github.com/bindudokala/Data-Structures/tree/master/0611-valid-triangle-number) |
 | [0778-reorganize-string](https://github.com/bindudokala/Data-Structures/tree/master/0778-reorganize-string) |
+| [0973-k-closest-points-to-origin](https://github.com/bindudokala/Data-Structures/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/bindudokala/Data-Structures/tree/master/0977-squares-of-a-sorted-array) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/bindudokala/Data-Structures/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Heap (Priority Queue)
@@ -89,6 +91,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/bindudokala/Data-Structures/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/bindudokala/Data-Structures/tree/master/0778-reorganize-string) |
+| [0973-k-closest-points-to-origin](https://github.com/bindudokala/Data-Structures/tree/master/0973-k-closest-points-to-origin) |
 ## Counting
 |  |
 | ------- |
@@ -101,6 +104,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/bindudokala/Data-Structures/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/bindudokala/Data-Structures/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/bindudokala/Data-Structures/tree/master/0973-k-closest-points-to-origin) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -165,6 +169,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/bindudokala/Data-Structures/tree/master/0166-fraction-to-recurring-decimal) |
 | [0367-valid-perfect-square](https://github.com/bindudokala/Data-Structures/tree/master/0367-valid-perfect-square) |
 | [0830-largest-triangle-area](https://github.com/bindudokala/Data-Structures/tree/master/0830-largest-triangle-area) |
+| [0973-k-closest-points-to-origin](https://github.com/bindudokala/Data-Structures/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Search
 |  |
 | ------- |
@@ -181,6 +186,7 @@
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/bindudokala/Data-Structures/tree/master/0830-largest-triangle-area) |
+| [0973-k-closest-points-to-origin](https://github.com/bindudokala/Data-Structures/tree/master/0973-k-closest-points-to-origin) |
 ## Queue
 |  |
 | ------- |
@@ -257,4 +263,5 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/bindudokala/Data-Structures/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/bindudokala/Data-Structures/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
